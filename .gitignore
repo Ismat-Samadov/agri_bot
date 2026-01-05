@@ -2,7 +2,8 @@
 .env
 .env.local
 .env.*.local
-Neo4j-9c0a7d96-Created-2026-01-05.txt
+.claude
+
 # Python
 __pycache__/
 *.py[cod]
